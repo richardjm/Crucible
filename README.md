@@ -9,6 +9,10 @@
 * Under-bed carriage fans 
 * Fancy name
 
+## Recoloured variant
+![Recolour](images/Crucible_wr.png)
+
+## Original
 ![Render](images/Crucible_render.png)
 
 <img src="images/5D5C15D4-5C5B-44C7-AC00-2AAD4BF1DE03.jpeg" width="600" height="850">
