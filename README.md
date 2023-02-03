@@ -10,7 +10,24 @@
 * Fancy name
 
 ## Recoloured variant
+The CAD contains three colours
+- _PrimaryColour (e.g. Black) - majority of parts
+- _AccentColour (e.g. Red) - a few highlights
+- _TouchColour (e.g. Black) - parts that are touched (handle, panel tabs etc), you would tend to adjust this is you have a pale _PrimaryColour - see second image.
+
+### "Standard" Voron
+- Primary = Black
+- Accent = Red
+- Touch = Black
+
 ![Recolour](images/Crucible_wr.png)
+
+### Black on White 
+- Primary = White
+- Accent = Black
+- Touch = Black
+
+![Recolour](images/Crucible_wr_white.png)
 
 ## Original
 ![Render](images/Crucible_render.png)
