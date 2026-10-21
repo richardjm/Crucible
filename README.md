@@ -10,6 +10,13 @@
 * Under-bed carriage fans
 * Fancy name
 
+## New exports - for solidcraft
+
+* [Solidcraft](https://github.com/tangency-labs/solidcraft/commit/776541b0811df24d4762ee14af98e2f5e806190f)
+* -wr - Includes custom stealthbrick
+* -wr-solo - Include custom stealthbrick and extrusionless x
+* Converted from step files (zipped)
+
 ## Variant
 
 * [Stealth skirts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/V0.2_Stealth_Skirts) with modifications to rear parts
